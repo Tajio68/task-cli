@@ -1,5 +1,5 @@
 import argparse
 
 def add():
-  pass
+  print('add')
     
